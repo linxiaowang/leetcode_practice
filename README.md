@@ -1,1 +1,2 @@
-# leetcode_practice
+Record leetcode practice.
+Happy coding!
